@@ -1,5 +1,5 @@
 # Snake Game
-![Screenshot](docs\snake.png)
+![Screenshot](docs/snake.png)
 
 ## Description:
 Simple "Snake" game in CLI. The goal was to write it without any source.
